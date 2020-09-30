@@ -1,6 +1,6 @@
-x = input("Type a number: ")
-y = input("Type another number: ")
+P= input("Type a number: ")
+H= input("Type another number: ")
 
-sum = int(x) + int(y)
+sum = int(p) + int(h)
 
 print("The sum is: ", sum)
