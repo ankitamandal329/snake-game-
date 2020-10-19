@@ -1,6 +1,6 @@
-x = input("Type a number: ")
+X = input("Type a number: ")
 y = input("Type another number: ")
 
-sum = int(x) + int(y)
+sum = int(X) + int(Y)
 
-print("The sum is: ", sum)
+print("The sum is numbeer : ", sum)
